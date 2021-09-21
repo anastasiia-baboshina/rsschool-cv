@@ -34,6 +34,22 @@ function createDreamTeam(members){
     }
   }
   return enter.split('').sort().join('');
+
+  //or another example
+  
+function countCats (backyard){
+                var countCatss = 0;
+                for (var i = 0; i &lt; backyard.length; i++) {
+              
+                  for (var j = 0; j &lt; backyard[i].length; j++){
+              
+                    if (backyard[i][j] == "^^"){
+                      countCatss++
+                    }
+                  }
+                }
+                return countCatss;
+              }
 }
 ```
 
