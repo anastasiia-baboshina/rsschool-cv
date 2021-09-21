@@ -4,7 +4,7 @@
 **Phone**: +7 910 936-78-48 <br>
 **Location**: Tver, Russia <br>
 **E-mail**: baboshina_nastya@mail.ru<br>
-**Telegram**: @nura068<br>
+**Telegram**: [@nura068](https://t.me/nura068)<br>
 [LinkedIn](https://www.linkedin.com/in/anastasia-baboshina-1b95ba211/)<br>
 
 ## Briefly About Myself:
